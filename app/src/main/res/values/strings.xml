@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="MainText">Enter your data to calculate BMI</string>
+    <string name="WeightText">Weight [kg]</string>
+    <string name="HeightText">Height [m]</string>
+    <string name="SubmitText">Submit</string>
+</resources>
+
+
